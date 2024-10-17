@@ -8,4 +8,4 @@
 <p>- CSS </p>
 <p>- JS </p>
 <p>esse é um projeto para aprender a fazer um sorteador</p>
-<img src="https://raw.githubusercontent.com/Verneloira/sorteador/31437268c2ec1ba1838eae62476ffadb4c4aa1d7/assets/desktop%20sorteador.png">
+<img src="https://github.com/Verneloira/sorteador/blob/main/assets/SorteadorDesktop.jpg?raw=true">
