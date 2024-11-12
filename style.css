@@ -6,12 +6,13 @@
 }
 
 body {
-    background-color: black;
+    background-image: url(./assets/Fallin\ dices.gif);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     min-height: 100vh;
+    background-size: 100%;
 }
 
 h2 {
