@@ -5,7 +5,11 @@
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<br>
+<br>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+<br>
 <p>- JS </p>
 <p>esse é um projeto para aprender a fazer um sorteador</p>
 <img src="https://github.com/Verneloira/sorteador/blob/main/assets/desktop%20novo.png">
