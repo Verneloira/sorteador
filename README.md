@@ -1,7 +1,8 @@
 <h1>Sorteador</h1>
 <br>
 <h3>projeto que aprendi no<a href="https//rodolfomori.com.br/devclub">DevClub</a</h3>
-<p>esse é um projeto para aprender a fazer um sorteador</p>
+<br>
+<p>Esse é um projeto para aprender a fazer um sorteador</p>
 <h2>tecnologias utilizadas</h2>
 <br>
 <br>
