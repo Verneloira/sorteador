@@ -14,5 +14,9 @@
 <br>
 <br>
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<img src="https://github.com/Verneloira/sorteador/blob/main/assets/desktop%20novo.png">
+<br>
+<h3>Modelos Desktop e Mobile</h3>
+<br>
+<img src="https://github.com/Verneloira/sorteador/blob/main/assets/desktop2.png">
+<br>
+<img src="https://github.com/Verneloira/sorteador/blob/main/assets/mobile.png">
